@@ -1,0 +1,325 @@
+{
+  "posts": [
+        {
+          "id": 1,
+          "name": "Paracetamol",
+          "brand": "Tylenol",
+          "net_quantity": "500mg",
+          "price": "₹350",
+          "image": "https://www.example.com/images/paracetamol.jpg",
+          "problem": "Pain relief",
+          "body_part": "General/Whole body"
+        },
+        {
+          "id": 2,
+          "name": "Amoxicillin",
+          "brand": "Amoxil",
+          "net_quantity": "250mg",
+          "price": "₹700",
+          "image": "https://www.example.com/images/amoxicillin.jpg",
+          "problem": "Bacterial infections",
+          "body_part": "General/Whole body"
+        },
+        {
+          "id": 3,
+          "name": "Cetirizine",
+          "brand": "Zyrtec",
+          "net_quantity": "10mg",
+          "price": "₹490",
+          "image": "https://www.example.com/images/cetirizine.jpg",
+          "problem": "Allergies",
+          "body_part": "Nose"
+        },
+        {
+          "id": 4,
+          "name": "Ibuprofen",
+          "brand": "Advil",
+          "net_quantity": "200mg",
+          "price": "₹450",
+          "image": "https://www.example.com/images/ibuprofen.jpg",
+          "problem": "Pain relief",
+          "body_part": "General/Whole body"
+        },
+        {
+          "id": 5,
+          "name": "Diphenhydramine",
+          "brand": "Benadryl",
+          "net_quantity": "25mg",
+          "price": "₹400",
+          "image": "https://www.example.com/images/diphenhydramine.jpg",
+          "problem": "Allergies",
+          "body_part": "Nose"
+        },
+        {
+          "id": 6,
+          "name": "Levothyroxine",
+          "brand": "Synthroid",
+          "net_quantity": "100mcg",
+          "price": "₹300",
+          "image": "https://www.example.com/images/levothyroxine.jpg",
+          "problem": "Hypothyroidism",
+          "body_part": "Thyroid gland"
+        },
+        {
+          "id": 7,
+          "name": "Atorvastatin",
+          "brand": "Lipitor",
+          "net_quantity": "20mg",
+          "price": "₹500",
+          "image": "https://www.example.com/images/atorvastatin.jpg",
+          "problem": "High cholesterol",
+          "body_part": "Blood vessels"
+        },
+        {
+          "id": 8,
+          "name": "Metformin",
+          "brand": "Glucophage",
+          "net_quantity": "500mg",
+          "price": "₹200",
+          "image": "https://www.example.com/images/metformin.jpg",
+          "problem": "Type 2 diabetes",
+          "body_part": "Pancreas"
+        },
+        {
+          "id": 9,
+          "name": "Amlodipine",
+          "brand": "Norvasc",
+          "net_quantity": "5mg",
+          "price": "₹250",
+          "image": "https://www.example.com/images/amlodipine.jpg",
+          "problem": "High blood pressure",
+          "body_part": "Heart"
+        },
+        {
+          "id": 10,
+          "name": "Albuterol",
+          "brand": "Ventolin",
+          "net_quantity": "100mcg",
+          "price": "₹600",
+          "image": "https://www.example.com/images/albuterol.jpg",
+          "problem": "Asthma",
+          "body_part": "Lungs"
+        },
+        {
+          "id": 11,
+          "name": "Prednisone",
+          "brand": "Deltasone",
+          "net_quantity": "20mg",
+          "price": "₹150",
+          "image": "https://www.example.com/images/prednisone.jpg",
+          "problem": "Inflammation",
+          "body_part": "General/Whole body"
+        },
+        {
+          "id": 12,
+          "name": "Amphetamine",
+          "brand": "Adderall",
+          "net_quantity": "30mg",
+          "price": "₹1000",
+          "image": "https://www.example.com/images/adderall.jpg",
+          "problem": "ADHD",
+          "body_part": "Brain"
+        },
+        {
+          "id": 13,
+          "name": "Gabapentin",
+          "brand": "Neurontin",
+          "net_quantity": "300mg",
+          "price": "₹350",
+          "image": "https://www.example.com/images/gabapentin.jpg",
+          "problem": "Nerve pain",
+          "body_part": "Nervous system"
+        },
+        {
+          "id": 14,
+          "name": "Cephalexin",
+          "brand": "Keflex",
+          "net_quantity": "500mg",
+          "price": "₹400",
+          "image": "https://www.example.com/images/cephalexin.jpg",
+          "problem": "Bacterial infections",
+          "body_part": "General/Whole body"
+        },
+        {
+          "id": 15,
+          "name": "Folic Acid",
+          "brand": "Folvite",
+          "net_quantity": "5mg",
+          "price": "₹100",
+          "image": "https://www.example.com/images/folicacid.jpg",
+          "problem": "Folate deficiency",
+          "body_part": "General/Whole body"
+        },
+        {
+          "id": 16,
+          "name": "Hydrochlorothiazide",
+          "brand": "Microzide",
+          "net_quantity": "25mg",
+          "price": "₹200",
+          "image": "https://www.example.com/images/hydrochlorothiazide.jpg",
+          "problem": "High blood pressure",
+          "body_part": "Kidneys"
+        },
+        {
+          "id": 17,
+          "name": "Atorvastatin",
+          "brand": "Lipitor",
+          "net_quantity": "20mg",
+          "price": "₹500",
+          "image": "https://www.example.com/images/atorvastatin.jpg",
+          "problem": "High cholesterol",
+          "body_part": "Blood vessels"
+        },
+        {
+          "id": 18,
+          "name": "Amoxicillin",
+          "brand": "Augmentin",
+          "net_quantity": "875mg/125mg",
+          "price": "₹800",
+          "image": "https://www.example.com/images/augmentin.jpg",
+          "problem": "Bacterial infections",
+          "body_part": "General/Whole body"
+        },
+        {
+          "id": 19,
+          "name": "Vitamin D3",
+          "brand": "Drisdol",
+          "net_quantity": "1000 IU",
+          "price": "₹150",
+          "image": "https://www.example.com/images/drisdol.jpg",
+          "problem": "Vitamin D deficiency",
+          "body_part": "General/Whole body"
+        },
+        {
+          "id": 20,
+          "name": "Benzonatate",
+          "brand": "Tessalon Perles",
+          "net_quantity": "100mg",
+          "price": "₹300",
+          "image": "https://www.example.com/images/benzonatate.jpg",
+          "problem": "Cough",
+          "body_part": "Lungs"
+        },
+        {
+          "id": 21,
+          "name": "Losartan",
+          "brand": "Cozaar",
+          "net_quantity": "50mg",
+          "price": "₹250",
+          "image": "https://www.example.com/images/losartan.jpg",
+          "problem": "High blood pressure",
+          "body_part": "Heart"
+        },
+        {
+          "id": 22,
+          "name": "Metoprolol Succinate ER",
+          "brand": "Toprol XL",
+          "net_quantity": "50mg",
+          "price": "₹500",
+          "image": "https://www.example.com/images/metoprolol.jpg",
+          "problem": "High blood pressure",
+          "body_part": "Heart"
+        },
+        {
+          "id": 23,
+          "name": "Trazodone",
+          "brand": "Desyrel",
+          "net_quantity": "100mg",
+          "price": "₹400",
+          "image": "https://www.example.com/images/trazodone.jpg",
+          "problem": "Depression",
+          "body_part": "Brain"
+        },
+        {
+          "id": 24,
+          "name": "Clonazepam",
+          "brand": "Klonopin",
+          "net_quantity": "1mg",
+          "image": "https://www.example.com/images/trazodone.jpg",
+          "problem": "Depression",
+          "body_part": "Brain"
+        },
+        {
+          "id": 25,
+          "name": "Amoxicillin",
+          "brand": "Amoxil",
+          "net_quantity": "500mg",
+          "price": "₹350",
+          "image": "https://www.example.com/images/amoxicillin.jpg",
+          "problem": "Bacterial infections",
+          "body_part": "Various parts of the body depending on the infection"
+        },
+        {
+          "id": 26,
+          "name": "Metformin",
+          "brand": "Glucophage",
+          "net_quantity": "500mg",
+          "price": "₹700",
+          "image": "https://www.example.com/images/metformin.jpg",
+          "problem": "Type 2 diabetes",
+          "body_part": "Pancreas"
+        },
+        {
+          "id": 27,
+          "name": "Atorvastatin",
+          "brand": "Lipitor",
+          "net_quantity": "20mg",
+          "price": "₹490",
+          "image": "https://www.example.com/images/atorvastatin.jpg",
+          "problem": "High cholesterol",
+          "body_part": "Blood vessels"
+        },
+        {
+          "id": 28,
+          "name": "Losartan",
+          "brand": "Cozaar",
+          "net_quantity": "50mg",
+          "price": "₹450",
+          "image": "https://www.example.com/images/losartan.jpg",
+          "problem": "High blood pressure",
+          "body_part": "Heart"
+        },
+        {
+          "id": 29,
+          "name": "Levothyroxine",
+          "brand": "Synthroid",
+          "net_quantity": "100mcg",
+          "price": "₹400",
+          "image": "https://www.example.com/images/levothyroxine.jpg",
+          "problem": "Hypothyroidism",
+          "body_part": "Thyroid gland"
+        },
+        {
+          "id": 30,
+          "name": "Hydrochlorothiazide",
+          "brand": "Microzide",
+          "net_quantity": "25mg",
+          "price": "₹300",
+          "image": "https://www.example.com/images/hydrochlorothiazide.jpg",
+          "problem": "High blood pressure",
+          "body_part": "Kidneys"
+        },
+        {
+          "id": 31,
+          "name": "Gabapentin",
+          "brand": "Neurontin",
+          "net_quantity": "300mg",
+          "price": "₹500",
+          "image": "https://www.example.com/images/gabapentin.jpg",
+          "problem": "Seizures, nerve pain",
+          "body_part": "Brain, nerves"
+        },
+        {
+          "id": 32,
+          "name": "Cetirizine",
+          "brand": "Zyrtec",
+          "net_quantity": "10mg",
+          "price": "₹200",
+          "image": "https://www.example.com/images/cetirizine.jpg",
+          "problem": "Allergies",
+          "body_part": "Nose"
+        }
+      ]
+}
+  
+ 
